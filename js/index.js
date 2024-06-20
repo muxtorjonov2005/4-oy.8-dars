@@ -209,7 +209,7 @@
 // 34-masala
 
 // 35-masala
-function array(arr){
-    return arr.sort((a, b) => a - b)
-}
-console.log(array([1,8,9,7,]));
+// function array(arr){
+//     return arr.sort((a, b) => a - b)
+// }
+// console.log(array([1,8,9,7,]));
